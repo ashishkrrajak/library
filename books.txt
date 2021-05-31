@@ -1,0 +1,1 @@
+Digital,Communication,Data Stucture,Maths for Data Science,Python Easy,Algorithm,Python Django,Python Flask,Numpy,CSS3,Java for Beginner's,Pygame,Tkinter,Pandas for Data Science,HTML5 for Beginner's
